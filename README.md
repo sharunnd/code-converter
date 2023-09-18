@@ -1,5 +1,5 @@
 # code-converter
-
+It is a code converter app powered by OpenAi API.
 ## Tech stack
   
 ## Frontend
